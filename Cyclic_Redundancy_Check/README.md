@@ -2,7 +2,7 @@ VB.NET
 
 Cyclic Redundancy Check - CRC
 
-The zip file "CRC.zip" has the source code of an VB.NET application that proccesses the CRC of ASCII strings, Hexadecimal strings or even bit string (with odd number of bits).
+The zip file "CRC.zip" has the source code of an VB.NET application that proccesses the CRC of ASCII string, Hexadecimal string or even bit string (with even or odd number of bits).
 
 This application allows the calculation of any CRC size from 1 up to 64 bits. Any CRC standard may be used or new CRC standard may be tested because user may: 
     *) supply values to Polynomial, Initial_CRC and Final_Xor;
